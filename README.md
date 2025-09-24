@@ -1,5 +1,5 @@
-# github_backup_GuitaraokeLeader/.github
+# bestia-dev-private-archived/.github
 
-**github_backup_GuitaraokeLeader/.github is a special repository.**
+**bestia-dev-private-archived/.github is a special repository.**
 
 It is a special repository for creating the readme of the Organization.  
